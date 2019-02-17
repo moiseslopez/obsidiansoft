@@ -1,0 +1,12 @@
+com\test\project\model\Channels.class
+com\test\project\model\Messages.class
+com\test\project\model\UserM.class
+com\test\project\service\impl\LoginServiceImpl.class
+com\test\project\service\LoginService.class
+com\test\project\model\Response.class
+com\test\project\controller\ChannelsController.class
+com\test\project\dao\impl\LoginDaoImpl.class
+com\test\project\service\ChannelService.class
+com\test\project\controller\MainController.class
+com\test\project\controller\LoginController.class
+com\test\project\dao\LoginDao.class
